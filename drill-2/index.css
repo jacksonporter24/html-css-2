@@ -1,0 +1,95 @@
+.firstbox {
+    height: 60px;
+    border: 4px solid black;
+    padding: 60px;
+    background: transparent;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    margin: 0;
+    
+}
+
+.secondbox {
+    height: 120px;
+    border: 4px dotted black;
+    padding: 60px;
+    background: transparent;
+    position: absolute;
+    top: 220px;
+    left: 10px;
+    right: 10px;
+    margin: 0;
+    
+}
+
+.thirdbox {
+    height: 120px;
+    border: 2px solid whitesmoke;
+    box-shadow: 2px 2px 2px gray;
+    padding: 60px;
+    background: transparent;
+    position: absolute;
+    top: 490px;
+    left: 350px;
+    right: 350px;
+    margin: 0;
+    
+}
+
+.purplesquare {
+    height: 110px;
+    background: purple;
+    position: absolute;
+    top: 70px;
+    left: 20px;
+    width: 40px;
+    margin: 0;
+}
+
+.greensquare {
+    height: 160px;
+    background: green;
+    position: absolute;
+    top: 20px;
+    left: 120px;
+    width: 400px;
+    margin: 0;
+}
+
+.bluecircle {
+    height: 160px;
+    background: lightblue;
+    border-radius: 50%;
+    position: absolute;
+    top: 20px;
+    right: 400px;
+    width: 160px;
+    height: 160px;
+    margin: 0;
+}
+
+.yellowsquare {
+    height: 160px;
+    background: beige;
+    position: absolute;
+    top: 43%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 1200px;
+    margin: 0;
+    box-shadow: 8px 8px 8px black;
+}
+
+p {
+    color: black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin: auto;
+    padding: 30px;
+    font-size:xx-large;
+    color: darkblue;
+    font-weight: 600;
+    letter-spacing: 8px;
+}
